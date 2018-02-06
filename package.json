@@ -1,0 +1,28 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "Mock json server",
+  "main": "db.json",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darinburris/json-server.git"
+  },
+  "keywords": [
+    "json",
+    "mock",
+    "server"
+  ],
+  "author": "Darin Burris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darinburris/json-server/issues"
+  },
+  "homepage": "https://github.com/darinburris/json-server#readme"
+}
